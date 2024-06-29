@@ -1,0 +1,8 @@
+Всего количество адресов: 5
+
+Адреса:
+. Moskva,Arbat,41
+. Moskva,Stroiteley,3412
+. Novokuznetsk,Nayki,516
+. Novosibirsk,Mira,8564
+. Omsk,Pushkina,213
